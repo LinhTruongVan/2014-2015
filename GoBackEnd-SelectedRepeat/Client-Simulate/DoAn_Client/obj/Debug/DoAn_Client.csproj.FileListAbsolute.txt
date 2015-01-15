@@ -1,0 +1,18 @@
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\bin\Debug\DoAn_Client.exe.config
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\bin\Debug\DoAn_Client.exe
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\bin\Debug\DoAn_Client.pdb
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.csprojResolveAssemblyReference.cache
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.Properties.Resources.resources
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.csproj.GenerateResource.Cache
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.exe
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.pdb
+c:\users\heavyrajn\documents\visual studio 2012\Projects\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.Client.resources
+E:\Code\DoAn_Client\DoAn_Client\bin\Debug\DoAn_Client.exe.config
+E:\Code\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.exe
+E:\Code\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.pdb
+E:\Code\DoAn_Client\DoAn_Client\bin\Debug\DoAn_Client.exe
+E:\Code\DoAn_Client\DoAn_Client\bin\Debug\DoAn_Client.pdb
+E:\Code\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.csprojResolveAssemblyReference.cache
+E:\Code\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.Client.resources
+E:\Code\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.Properties.Resources.resources
+E:\Code\DoAn_Client\DoAn_Client\obj\Debug\DoAn_Client.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\bin\Debug\Router-Simulate.exe.config
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\bin\Debug\Router-Simulate.exe
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\bin\Debug\Router-Simulate.pdb
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\obj\Debug\Router-Simulate.csprojResolveAssemblyReference.cache
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\obj\Debug\Router_Simulate.Properties.Resources.resources
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\obj\Debug\Router_Simulate.Router.resources
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\obj\Debug\Router-Simulate.csproj.GenerateResource.Cache
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\obj\Debug\Router-Simulate.exe
+c:\users\vanlinh\documents\visual studio 2013\Projects\Router-Simulate\Router-Simulate\obj\Debug\Router-Simulate.pdb
+E:\Code\Router-Simulate\Router-Simulate\bin\Debug\Router-Simulate.exe.config
+E:\Code\Router-Simulate\Router-Simulate\obj\Debug\Router-Simulate.exe
+E:\Code\Router-Simulate\Router-Simulate\obj\Debug\Router-Simulate.pdb
+E:\Code\Router-Simulate\Router-Simulate\bin\Debug\Router-Simulate.exe
+E:\Code\Router-Simulate\Router-Simulate\bin\Debug\Router-Simulate.pdb
+E:\Code\Router-Simulate\Router-Simulate\obj\Debug\Router-Simulate.csprojResolveAssemblyReference.cache
+E:\Code\Router-Simulate\Router-Simulate\obj\Debug\Router_Simulate.Properties.Resources.resources
+E:\Code\Router-Simulate\Router-Simulate\obj\Debug\Router_Simulate.Router.resources
+E:\Code\Router-Simulate\Router-Simulate\obj\Debug\Router-Simulate.csproj.GenerateResource.Cache
